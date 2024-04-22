@@ -18,4 +18,4 @@
    ------
 
 ### 加速接口：
-abszm.todemo.xyz
+zbjs.sinatv.eu.org
